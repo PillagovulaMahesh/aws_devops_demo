@@ -1,0 +1,4 @@
+# This is a Node.js application.
+# Dependencies are managed in package.json, not here.
+# Added only for assignment completeness.
+# express == 4.18.2
